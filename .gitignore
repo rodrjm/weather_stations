@@ -1,0 +1,5 @@
+# Archivos del entorno virtual de Python
+**/.venv
+
+# Carpetas __pycache__ generadas por Python a la hora de compilar el código
+**/__pycache__
