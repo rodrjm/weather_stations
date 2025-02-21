@@ -21,7 +21,7 @@ Este proyecto es una API RESTful desarrollada con Flask, Flask-SQLAlchemy y Post
 1.  **Clonar el repositorio (opcional):**
 
     ```bash
-    git clone <https://github.com/rodrjm/weather_stations>
+    git clone https://github.com/rodrjm/weather_stations
     cd weather_stations
     ```
 
